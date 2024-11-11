@@ -2,6 +2,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sch990428&show_icons=true&theme=radical)
 ![DDD1](https://github.com/user-attachments/assets/1b04979a-afa9-49bb-979e-3d8d8a56ea04)
 ![Animation](https://github.com/user-attachments/assets/8509bbfc-d8ae-4efa-b2e4-8caeb4e548ec)
+![Animation](https://github.com/user-attachments/assets/f5c642ea-2b81-4e72-920d-611bc2953869)
 ![image](https://github.com/user-attachments/assets/9454aa90-1858-4ac5-8ba9-101bbab8f3c1)
 <!--
 **sch990428/sch990428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
