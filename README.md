@@ -2,6 +2,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sch990428&show_icons=true&theme=radical)
 ![DDD1](https://github.com/user-attachments/assets/1b04979a-afa9-49bb-979e-3d8d8a56ea04)
 ![Animation](https://github.com/user-attachments/assets/8509bbfc-d8ae-4efa-b2e4-8caeb4e548ec)
+![2](https://github.com/user-attachments/assets/f192f5d7-9e59-4d3a-b3c2-27e4eb0843fb)
 ![Animation](https://github.com/user-attachments/assets/65e3d825-7aba-49b4-a9d4-33a02d743cfb)
 ![image](https://github.com/user-attachments/assets/9454aa90-1858-4ac5-8ba9-101bbab8f3c1)
 <!--
